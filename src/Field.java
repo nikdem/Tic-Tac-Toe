@@ -15,7 +15,7 @@ public class Field {
     public void fieldCreate(){
         for (int i = 0; i < FIELD_SIZE; i++){
             lineCreate (i);
-        };
+        }
     }
 
     private void lineCreate(int lineNumber){
